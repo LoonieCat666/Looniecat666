@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://cataas.com/cat" alt="random cat" />
+  <img height="250" src="https://cataas.com/cat?t=1" alt="random cat" />
   <p>Random Cat Pic :3</p>
 </div>
 
