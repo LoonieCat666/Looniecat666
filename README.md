@@ -9,21 +9,21 @@
 
 <h3>About Me</h3>
 
-<p>
-  - Hi there, I'm Loonie<br>
-  - I'm 17 years old<br>
-  - I'm from switzerland<br>
-  - I'm non-binary and go by she/they :3 <br>
-  - I'm also neptunic<br>
-  - I love cats but I dont have one yet :c<br>
-  - As you can maybe guess, I am very leftwing<br>
-</p>
+<ul>
+  <li>Hi there, I'm Loonie</li>
+  <li>I'm 17 years old</li>
+  <li>I'm from Switzerland</li>
+  <li>I'm non-binary and go by she/they :3</li>
+  <li>I'm also neptunic</li>
+  <li>I love cats but I don't have one yet :c</li>
+  <li>As you can maybe guess, I am very leftwing</li>
+</ul>
 
 <h3>Interests & Hobbies</h3>
 
-<p>
-  - <b>Cats:</b> Huge feline enthusiast :3<br>
-  - <b>Music:</b> I love listening to music, especially metal<br>
-  - <b>Gaming:</b> I enjoy playing video games, mostly shooters<br>
-  - <b>Anime:</b> I'm a big fan of anime and manga<br>
-</p>
+<ul>
+  <li><b>Cats:</b> Huge feline enthusiast :3</li>
+  <li><b>Music:</b> I love listening to music, especially metal</li>
+  <li><b>Gaming:</b> I enjoy playing video games, mostly shooters</li>
+  <li><b>Anime:</b> I'm a big fan of anime and manga</li>
+</ul>
