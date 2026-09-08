@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="250" src="https://cataas.com/cat?t=1" alt="random cat" />
-  <p>Random Cat Pic :3</p>
+  <img height="250" src="https://c.tenor.com/k3GOvhH771YAAAAd/tenor.gif" alt="cat gif" />
+  <p>Cat Pic :3</p>
 </div>
 
 <br />
