@@ -13,7 +13,7 @@
   <li>Hi there, I'm Loonie</li>
   <li>I'm 17 years old</li>
   <li>I'm from Switzerland</li>
-  <li>I'm a non-binary demigirl and go by she/they :3</li>
+  <li>I'm a transgirl and go by she/they :3</li>
   <li>I'm also neptunic</li>
   <li>I love cats but I don't have one yet :c</li>
   <li>As you can maybe guess, I am very leftwing</li>
